@@ -7,4 +7,8 @@ public class Student extends Person {
     public void sendEmailMsg(String) {
 
     }
+
+    public float totalGrade() {
+
+    }
 }
